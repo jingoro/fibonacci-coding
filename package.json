@@ -1,0 +1,16 @@
+{
+  "name": "fibonacci-coding",
+  "description": "A library for Fibonacci coding",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jingoro/fibonacci-coding",
+  "author": {
+    "name": "John Nishinaga",
+    "url": "https://ejinjue.org/"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jasmine": "latest",
+    "grunt-contrib-coffee": "latest",
+    "grunt-contrib-watch": "latest"
+  }
+}
